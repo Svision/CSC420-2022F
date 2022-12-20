@@ -1,0 +1,1 @@
+The ipynb contains all the required report and code including Q1.3. The images and plot are already generated, change the code directory and run all code can regenerate those images. Required images are classified by Q3 and Q4 folder as well.
